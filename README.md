@@ -1,7 +1,7 @@
 Colorduino
 ==========
 
-NB! this is the only version of Colrduino I can make work on the Colorduino V1.2 Arduini clone.
+NB! this is the only version of Colorduino code I can make work on the Colorduino V1.2 Arduino clone.
 
 
 Arduino Interface Library for ITeadStudio Colorduino and Colors Shield
