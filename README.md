@@ -1,6 +1,9 @@
 Colorduino
 ==========
 
+NB! this is the only version of Colrduino I can make work on the Colorduino V1.2 Arduini clone.
+
+
 Arduino Interface Library for ITeadStudio Colorduino and Colors Shield
 Copyright (c) 2011 Sam C. Lin <lincomatic@hotmail.com>
 
